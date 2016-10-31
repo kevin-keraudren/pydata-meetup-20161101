@@ -6,6 +6,9 @@ Slides for 28th London PyData Meetup (01/11/2016)
 
 https://www.meetup.com/PyData-London-Meetup/events/234828438/
 
+You can view this notebook online <a href="http://nbviewer.jupyter.org/github/kevin-keraudren/pydata-meetup-20161101/blob/0f0b1fab4ef3b7f861bb2dba6d5268538fe00b23/PyData.ipynb">here</a> (nbviewer).
+
+
 Installation
 ------------
 
