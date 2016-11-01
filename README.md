@@ -9,6 +9,8 @@ https://www.meetup.com/PyData-London-Meetup/events/234828438/
 You can view this notebook online with nbviewer, <a href="http://nbviewer.jupyter.org/github/kevin-keraudren/pydata-meetup-20161101/blob/0f0b1fab4ef3b7f861bb2dba6d5268538fe00b23/PyData.ipynb">here as a notebook</a> 
 or <a href="http://nbviewer.jupyter.org/format/slides/github/kevin-keraudren/pydata-meetup-20161101/blob/0f0b1fab4ef3b7f861bb2dba6d5268538fe00b23/PyData.ipynb">here as slides</a>.
 
+Otherwise there is a static version on <a href="http://www.slideshare.net/kevinkeraudren/medical-imaging-in-python-from-morphological-operations-to-machine-learning-and-visualisation">SlideShare</a>.
+
 
 Installation
 ------------
